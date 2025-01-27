@@ -16,8 +16,8 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a
 
 Next, set-up the github email and username of your local machine by doing the following in a terminal:
 
-1. git config--global user.email "your github email" 
-2. git config--global user.name "your github username"
+1. git config --global user.email "your github email" 
+2. git config --global user.name "your github username"
 
 Your laboratory computer will then have a local ssh key that will be used to authenticate your submissions to the github classroom. This ssh key will be used throughout the semester, so it is important that you use the same computer all throughout the semester.
 
